@@ -3,7 +3,7 @@
 <h3 align="center">💻 Java • Python • JavaScript | 🌱 Software Developer | 🚀 Computer Programming</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+%7C+Python+%7C+JavaScript;Building+Real+World+Projects;Open+to+Opportunities+%26+Collaboration!&center=true&width=550&height=45&color=00F7FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+%7C+Python+%7C+JavaScript;Building+Real+World+Projects;Open+to+Opportunities+%26+Collaboration!&center=true&width=550&height=45&color=35FF69">
 </p>
 
 ---
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Eager+to+Build+%26+Collaborate;Java+%7C+Python+%7C+JavaScript;Let’s+Create+Something+Awesome+Together!&center=true&width=600&height=45&color=00FF00">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Eager+to+Build+%26+Collaborate;Java+%7C+Python+%7C+JavaScript;Let’s+Create+Something+Awesome+Together!&center=true&width=600&height=45&color=35FF69">
 </p>
