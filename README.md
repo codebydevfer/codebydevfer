@@ -45,8 +45,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=codebydevfer&theme=tokyonight&margin-w=8&margin-h=8&row=1" height="120" alt="Trophies" />
 </div>
 
----
-<p align="center">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
-
-</p>
