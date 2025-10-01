@@ -1,57 +1,49 @@
-<!-- Title & Intro -->
-<h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">💻 Java • Python • JavaScript | 🌱 Software Developer | 🚀 Computer Programming</h3>
+<h1 align="center">Hey, welcome to my GitHub! I'm Fernando...</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+%7C+Python+%7C+JavaScript;Building+Real+World+Projects;Open+to+Opportunities+%26+Collaboration!&center=true&width=550&height=45&color=35FF69">
-</p>
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+</div>
 
-### 👨‍💻 About Me
-- 🌱 Currently improving in **Java, Python, and JavaScript**  
-- 🔭 Looking forward to gain **real-world hands-on experience**  
-- 📚 Exploring **backend development, data analysis, web apps and more**  
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,mysql,git,github,vscode,figma,wordpress" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebydevfer&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebydevfer&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-### 🚀 Current Learning Focus
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-  <b>Sharpening skills in Java, Python, and JavaScript with hands-on projects</b>
-</p>
-
-- 🌟 Mini-projects:  
-  - **Java** → console apps, OOP challenges  
-  - **Python** → data analysis scripts, beginner ML projects  
-  - **JavaScript** → interactive web apps & small games
-- 🎯 Goal: Build a solid portfolio showcasing full-stack + data projects  
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Eager+to+Build+%26+Collaborate;Java+%7C+Python+%7C+JavaScript;Let’s+Create+Something+Awesome+Together!&center=true&width=600&height=45&color=35FF69">
-</p>
+###
