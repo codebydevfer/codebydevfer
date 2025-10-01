@@ -46,13 +46,7 @@
 </div>
 
 ---
-
-### Profile Views
 <p align="center">
-  <img src="https://count.getloli.com/@:codebydevfer?theme=sketch-1&padding=4&scale=0.7" alt="Profile Views" />
-</p>
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
 
----
-<p align="center">
-  <img src="./output/snake.svg" alt="Snake animation" />
 </p>
