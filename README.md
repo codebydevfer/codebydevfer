@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Fernando</h1>
 
 <p align="center">
-  💻 Passionate about <b>Software Development</b>, <b>Web Technologies</b>, and <b>Machine Learning</b>. <br/>
-  Always exploring, building, and learning 🚀
+  <b>Software Development</b>, <b>Web Technologies</b>, and <b>More</b>. <br/>
+  Always exploring, building, and learning.
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12"/>
@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebydevfer&layout=compact&theme=tokyonight&hide_border=false" height="200" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=codebydevfer&theme=dracula&hide_border=false" height="200" alt="GitHub Streak" />
@@ -40,21 +40,19 @@
 
 ---
 
-### 🏆 Achievements
+### GitHub Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codebydevfer&theme=tokyonight&margin-w=8&margin-h=8&row=1" height="120" alt="Trophies" />
 </div>
 
 ---
 
-### 👀 Profile Views
+### Profile Views
 <p align="center">
   <img src="https://count.getloli.com/@:codebydevfer?theme=sketch-1&padding=4&scale=0.7" alt="Profile Views" />
 </p>
 
 ---
-
-### 🐍 Fun Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codebydevfer/codebydevfer/output/snake.svg" alt="Snake animation" />
+  <img src="./output/snake.svg" alt="Snake animation" />
 </p>
