@@ -13,7 +13,9 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apex/apex-original.svg" height="40" alt="C++" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="JavaScript" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12"/>
@@ -39,9 +41,3 @@
 </div>
 
 ---
-
-### GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebydevfer&theme=tokyonight&margin-w=8&margin-h=8&row=1" height="120" alt="Trophies" />
-</div>
-
